@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ashutosh Kamble</h1>
+<h3 align="center">Machine Learning & AI Enthusiast | Python Developer | Future AI Engineer</h3>
 
-<!--
-**ashutoshk3148/ashutoshk3148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **AI and ML projects** in areas like computer vision, NLP, and real-time systems.
+- 🌱 Currently learning about **Transformers, Generative AI, and Cloud Deployment (AWS, Docker)**.
+- 👨‍💻 All my code and experiments are available at [My GitHub Repos](https://github.com/ashutoshkamble?tab=repositories)
+- 💬 Ask me about anything related to **Python, ML/DL, or model deployment**
+- 📫 Reach me at: **ashutosh.kamble@email.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools
+
+### 👨‍💻 Programming Languages  
+`C` `C++` `Python` `SQL` `HTML` `CSS`
+
+### 🧠 Libraries & Frameworks  
+`NumPy` `Pandas` `Matplotlib` `Scikit-learn` `TensorFlow` `Keras`
+
+### 🔧 Tools & Platforms  
+`Git` `GitHub` `AWS` `VS Code` `Jupyter Notebook`
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshkamble&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshkamble&theme=tokyonight" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+> I love turning real-world problems into deployable ML solutions.
