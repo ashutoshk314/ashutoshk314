@@ -24,5 +24,3 @@
 
 ---
 
-## ⚡ Fun Fact
-> I love turning real-world problems into deployable ML solutions.
