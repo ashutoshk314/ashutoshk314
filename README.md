@@ -1,4 +1,3 @@
-[![MasterHead]
 <h1 align="center">Hi 👋, I'm Ashutosh Kamble</h1>
 <h3 align="center">Undergrad Student Focusing On Machine Learning And Data Science</h3>
 <br>
