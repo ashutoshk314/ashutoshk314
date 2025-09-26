@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Web Scrapping, Tableau**
 
-- 📫 How to reach me **ashutos.p.hkambl@outlook.com**
+- 📫 How to reach me **ashutosh.p.hkambl@outlook.com**
 <br>
 <br>
 
