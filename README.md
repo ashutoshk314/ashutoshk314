@@ -2,9 +2,9 @@
 <h3 align="center">Undergrad Student Focusing On Machine Learning And Data Science</h3>
 <br>
 
-- 🔭 I’m currently working on **Real World Datasets**
+- 🔭 I am currently working on **Real World Datasets**
 
-- 🌱 I’m currently learning **Neural Networks**
+- 🌱 I am currently learning **Neural Networks**
 
 - 💬 Ask me about **Web Scrapping, Tensorflow, keras**
 
