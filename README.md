@@ -6,7 +6,7 @@
 
 - 🌱 I am currently learning **Neural Networks**
 
-- 💬 Ask me about **Web Scrapping, Tensorflow, keras**
+- 💬 Ask me about **Machine Learning, Data Science**
 
 - 📫 How to reach me **ashutoshkamble314@gmail.com.com**
 <br>
