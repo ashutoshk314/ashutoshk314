@@ -1,6 +1,5 @@
 <h1 align="center">Hello, I'm Ashutosh Kamble</h1>
 <h3 align="center">Machine Learning | Data Science | LLM | GenAI</h3>
-<br>
 
 ## <strong>Tech Stack</strong>
 
@@ -26,11 +25,9 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
 
-<br>
-<!-- badges here -->
-<br>
+
 ## <strong>Contact</strong>
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
 ![Email](https://img.shields.io/badge/Email-555555?style=flat&logo=gmail&logoColor=white)
-<br>
+
