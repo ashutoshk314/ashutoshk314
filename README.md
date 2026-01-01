@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ashutosh Kamble</h1>
-<h3 align="center">Undergrad Student Focusing On Machine Learning And Data Science</h3>
+<h1 align="center">Hello, I'm Ashutosh Kamble</h1>
+<h3 align="center">With deep foundation Machine Learning, Data Science, LLM & GenAI</h3>
 <br>
 
 - 🔭 I am currently working on **Real World Datasets**
