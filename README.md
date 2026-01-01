@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning | Data Science | LLM | GenAI</h3>
 <br>
 
-# 💻 Tech Stack:
+- **Tech Stack**:
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,10 +25,6 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
 
 <br>
-<br>
-- To reach me Email: ashutoshkamble314@gmail.com
-<br>
- ## Reach Me
-
+- **Contact**
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
 ![Email](https://img.shields.io/badge/Email-555555?style=flat&logo=gmail&logoColor=white)
