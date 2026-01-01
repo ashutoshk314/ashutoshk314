@@ -3,7 +3,7 @@
 <br>
 ## Reach Me
 
-[LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN) · Email: your_email@example.com
+Email: ashutoshkamble314@gmail.com
 
 <br>
 <br>
