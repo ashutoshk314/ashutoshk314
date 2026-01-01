@@ -25,6 +25,9 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
 
 <br>
+<br>
 # **Contact**
+
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
 ![Email](https://img.shields.io/badge/Email-555555?style=flat&logo=gmail&logoColor=white)
+<br>
