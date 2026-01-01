@@ -2,12 +2,6 @@
 <h3 align="center">Machine Learning | Data Science | LLM | GenAI</h3>
 <br>
 
-
-- To reach me Email: ashutoshkamble314@gmail.com
-
-<br>
-<br>
-
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -30,4 +24,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
 
+<br>
+<br>
+- To reach me Email: ashutoshkamble314@gmail.com
 <br>
