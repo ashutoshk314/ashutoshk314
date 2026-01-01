@@ -28,3 +28,7 @@
 <br>
 - To reach me Email: ashutoshkamble314@gmail.com
 <br>
+ ## Reach Me
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
+![Email](https://img.shields.io/badge/Email-555555?style=flat&logo=gmail&logoColor=white)
