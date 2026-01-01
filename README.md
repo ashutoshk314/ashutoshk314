@@ -1,14 +1,10 @@
 <h1 align="center">Hello, I'm Ashutosh Kamble</h1>
-<h3 align="center">Machine Learning Engineer</h3>
+<h3 align="center">Machine Learning | Data Science | LLM | GenAI</h3>
 <br>
+## Reach Me
 
-- 🔭 I am currently working on **Real World Datasets**
+[LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN) · Email: your_email@example.com
 
-- 🌱 I am currently learning **Neural Networks**
-
-- 💬 Ask me about **Machine Learning, Data Science**
-
-- 📫 How to reach me **ashutoshkamble314@gmail.com.com**
 <br>
 <br>
 
@@ -33,11 +29,5 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
-
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat&logo=githubactions)
 
 <br>
