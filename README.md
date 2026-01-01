@@ -3,7 +3,6 @@
 
 ## <strong>Tech Stack</strong>
 
-
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,6 +27,6 @@
 
 ## <strong>Contact</strong>
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
-![Email](https://img.shields.io/badge/Email-555555?style=flat&logo=gmail&logoColor=white)
+![Email](https://img.shields.io/badge/Email-555555?style=flat&logo=gmail&logoColor=white)(mailto:ashutoshkamble314@gmail.com)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/ashutoshk314)
 
