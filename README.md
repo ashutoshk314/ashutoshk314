@@ -27,6 +27,7 @@
 
 ## <strong>Contact</strong>
 
-![Email](https://img.shields.io/badge/Email-555555?style=flat&logo=gmail&logoColor=white)(mailto:ashutoshkamble314@gmail.com)
+[![Email](https://img.shields.io/badge/Email-555555?style=flat&logo=gmail&logoColor=white)](mailto:ashutoshkamble314@gmail.com)
+
 
 
