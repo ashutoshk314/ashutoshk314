@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Ashutosh Kamble</h1>
 <h3 align="center">Machine Learning | Data Science | LLM | GenAI</h3>
 
-## <strong>Tech Stack</strong>
+## <strong>Tech Stack
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
